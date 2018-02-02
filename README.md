@@ -9,6 +9,11 @@ Encoder:
 Decoder:
 sentence
 
+```
+CUDA_VISIBLE_DEVICES=gpu_id python main.py --options option_values
+```
+
+
 ## Required packages:
 * Python 2.7
 * Tensorflow 1.3
